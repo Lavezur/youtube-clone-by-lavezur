@@ -1,3 +1,2 @@
-# This is a something like youtube clone by me
-
-Just a simple react app 
+# UI clone
+simple react app 
